@@ -1,0 +1,5 @@
+<---this is file containing initial link traffic between nodes--->
+<---main c++ file will ignore these comments and start taking i/p 
+when it reaches the special start character (hash)--->
+
+#
